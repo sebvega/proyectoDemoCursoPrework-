@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+width: 100%;
+}
+.inicio{
+
+position: absolute;
+font-size: 20px;
+width: 170px;
+left: 92px;
+top: 30px;
+background-color: rgb(206, 199, 199);
+text-align: center;
+border-radius: 9px 9px 9px 9px;
+}
+
+
+.charmander{
+
+width: 190px;
+height: 190px;
+display: inline-block;
+position: absolute;
+top: 180px;
+left: 100px;
+
+}
+
+.fondo{
+    border-radius: 9px 9px 0 0;
+    width: 370px;
+    height: 370px;
+}
+
+.desc{
+    top: 370px;
+    position: absolute;
+    width: 370px;
+    background-color: rgb(206, 199, 199);
+    text-align: center;
+    border-radius: 0 0 9px 9px;
+}

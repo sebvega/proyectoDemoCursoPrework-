@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* medidas absolutas y porcentaje */
+/* main{
+    background-color: red ;
+    width: 100%;
+    height: 500px;
+}
+
+p{
+    font-size: 50%;
+} */
+
+/* em */
+/* .text-container{
+    font-size: 1.5em;
+}
+.text-container div{
+    font-size: 1.5em;
+} */
+
+/* rem */
+/* html{
+    font-size: 62.5%;
+}
+
+.text-container{
+    font-size: 1.6rem;
+}
+.text-container div{
+    font-size: 2.6rem;
+} */
+
+/* min */
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
+section{
+    width: 80%;
+    min-width: 320px;
+    max-width: 500px;
+    height: 500px;
+    background-color: silver;
+    margin: 0 auto;
+}

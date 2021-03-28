@@ -1,0 +1,22 @@
+/* hermano al lado  */
+
+/* h2 + p{
+    color: red;
+} */
+
+
+/* hermano general en clase */
+/* h2 ~ p{
+    color: red;
+} */
+
+/* hijo directo */
+
+/* div > p{
+    color: red;
+} */
+
+/* desendiente */
+/* div p{
+    color: red;
+} */
